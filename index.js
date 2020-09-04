@@ -14,5 +14,5 @@ fuction redurce(src, cb, start) {
     let theElement = src[1] 
     r.push
   }
-  return r; 
+  return r = cb(src[i], r)
 }
