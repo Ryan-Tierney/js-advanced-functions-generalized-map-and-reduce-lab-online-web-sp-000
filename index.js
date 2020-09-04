@@ -1,6 +1,6 @@
 // Add function sayHello(name="") {
 function map(src, cb) { 
-  r = []
+ let  r = []
   for (let i = 0; i < src.length; i++) { 
     let theElement = src[i]
     r.push(cb(theElement))
