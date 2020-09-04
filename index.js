@@ -7,3 +7,12 @@ function map(src, cb) {
   }
   return r;
 }
+
+fuction redurce(src, cb, start) { 
+  let r = [] 
+  for (let i = 0; i < src.length; i++) { 
+    let theElement = src[1] 
+    r.push
+  }
+  return r; 
+}
